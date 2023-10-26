@@ -7,9 +7,13 @@
 
 ## **Team Members**
 
-- **RA1911030010014 - Gita Alekhya Paul**
-- **RA1911030010025 - Ratanshi Puri**
-- **RA1911030010030 - Nitish Chaturvedi**
+-**Ritik Katiyar (RA2111003010373)**
+-**Pratyush Gupta (RA2111003010374)**
+-**Mansi Pandey (RA2111003010377)**
+-**Arnav Shah (RA2111003010378)**
+-**Sahil Kumar (RA2111003010379)**
+-**Ishan Joshi (RA2111003010387)**
+
 
 ## **Abstract**
 
@@ -166,7 +170,7 @@ The project uses Docker to containerize and package the application for easier d
 
 <td>
 
-**Nitish Chaturvedi**
+**Arnav Shah**
 
 <p align="center">
 <img src = "https://github.com/waterupto.png"  height="120" alt="Nitish Chaturvedi">
