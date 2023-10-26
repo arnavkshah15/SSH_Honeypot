@@ -7,11 +7,11 @@
 
 ## **Team Members**
 
--**Ritik Katiyar (RA2111003010373)**\n
--**Pratyush Gupta (RA2111003010374)**
--**Mansi Pandey (RA2111003010377)**
--**Arnav Shah (RA2111003010378)**
--**Sahil Kumar (RA2111003010379)**
+-**Ritik Katiyar (RA2111003010373)**<br>
+-**Pratyush Gupta (RA2111003010374)**<br>
+-**Mansi Pandey (RA2111003010377)**<br>
+-**Arnav Shah (RA2111003010378)**<br>
+-**Sahil Kumar (RA2111003010379)**<br>
 -**Ishan Joshi (RA2111003010387)**
 
 
